@@ -14,4 +14,9 @@ public class MainActivity extends AppCompatActivity {
         Log.i(TAG, "onCreate: testGit");
         Log.i(TAG, "onCreate: testGitbeach");
     }
+
+    public void feature_4(){
+        Log.i(TAG, "feature_4: 在master中，添加功能4");
+    }
+
 }
